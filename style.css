@@ -6,10 +6,10 @@ nav{
     padding: 15px 15px;
     color: white;
     text-align: left;
-    }
+}
 
 section div{
-    border: solid  2px black;
+    border: solid 2px black;
     margin: 28px;
     height: 30%;
     width: 30%;
@@ -27,12 +27,9 @@ section p{
 footer{
 position: relative;
 text-align: center;
-}
-
-footer img{
-    border: solid black 3px;
-    height: 400;
-    width: 1800;
+background-image: url("./Images/jumbotron-background.jpg");
+width: 100%;
+border: solid 3px black;
 }
 
 footer p{
